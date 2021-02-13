@@ -1,5 +1,5 @@
 
-<h1 align="center">:elephant:CRUD com Javascript:elephant:</h1>
+<h1 align="center">:dog:Doguito CRUD com Javascript:dog:</h1>
 <p align="center">
 Curso de JS na web: CRUD com JavaScript assíncrono
 </p>
