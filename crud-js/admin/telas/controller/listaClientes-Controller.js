@@ -19,7 +19,7 @@ const tabela = document.querySelector('[data-tabela]')
 
 clienteService.listaClientes()
 .then( data => {
-//Para cada elemento dentro do Do Data, esecutar a função do template.
+//Para cada elemento dentro do Data, executar a função do template.
         data.forEach(elemento => {
         tabela.appendChild(criaNovaLinha(elemento.nome, elemento.email))
 })})
